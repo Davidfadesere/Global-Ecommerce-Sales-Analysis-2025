@@ -38,14 +38,6 @@ A global retail entity needed to understand its performance across 10 different 
 * **Category Dominance:** Contrary to expectations, **Home Decor** emerged as the top category (**$232K**), followed by Grocery and Electronics.
 * **Seasonal Trends:** Analysis revealed a significant performance peak in **July 2025 ($180K)**, suggesting a highly successful mid-year promotion or seasonal demand spike.
 
-## The Dashboard
-
-The final dashboard provides a high-level executive summary and granular drill-downs:
-
-* **Executive Summary:** High-level KPIs and year-to-date trends.
-* **Regional Analysis:** Map visuals and bar charts comparing country-level performance.
-* **Product Insights:** Tree-maps highlighting category distribution.
-
 ## How to Use This Repository
 
 1. **Data:** The raw `.csv` file is located in the `data/` folder.
