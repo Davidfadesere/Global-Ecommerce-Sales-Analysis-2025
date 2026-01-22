@@ -46,6 +46,3 @@ A global retail entity needed to understand its performance across 10 different 
 ## Conclusion
 
 This analysis proves that while the company has a broad global reach, focus should be intensified on the Home Decor category in the North American and Middle Eastern markets to maximize ROI.
-
-**Author:** DAVID FADESERE
-**Role:** Data Analyst / Product Manager
