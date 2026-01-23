@@ -1,5 +1,7 @@
 # Global E-Commerce Sales Analysis 🌍📊
-<img width="1012" height="522" alt="Global Ecommerce Sales 2025" src="https://github.com/user-attachments/assets/2ac32385-0416-42d6-b915-e5e154edce0e" />
+<img width="920" height="526" alt="1000824815" src="https://github.com/user-attachments/assets/dad78738-41c5-4514-8c09-9c30626c8886" />
+<img width="926" height="520" alt="1000824811" src="https://github.com/user-attachments/assets/0fb06dbc-1428-4aa4-807b-9eedcdc80da5" />
+
 
 ## Project Overview
 
