@@ -1,6 +1,7 @@
 # Global E-Commerce Sales Analysis 🌍📊
-<img width="920" height="526" alt="1000824815" src="https://github.com/user-attachments/assets/dad78738-41c5-4514-8c09-9c30626c8886" />
-<img width="926" height="520" alt="1000824811" src="https://github.com/user-attachments/assets/0fb06dbc-1428-4aa4-807b-9eedcdc80da5" />
+<img width="926" height="520" alt="1000824811" src="https://github.com/user-attachments/assets/a39ecc25-4e56-4964-9091-4263a95ae3d1" />
+
+<img width="920" height="526" alt="1000824815" src="https://github.com/user-attachments/assets/61b50c27-1fde-41d2-a844-d94ecb5a75fe" />
 
 
 ## Project Overview
